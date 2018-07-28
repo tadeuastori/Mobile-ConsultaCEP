@@ -1,5 +1,5 @@
-# Mobile-ConsultaCEP
-App Mobile para consultar um CEP
+# Consulta de CEP - Mobile
+App Mobile para consultar um endereço através do CEP
 ### Descrição
 App desenvolvido para Android, iOS e Windows Phone utilizando o Xamarin para a consulta de um CEP. 
 ### Tecnologia
